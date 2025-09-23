@@ -8,3 +8,8 @@
 - [2.2 Build Systems: CMake and Modern Alternatives](chapter_02/2.2_Build_Systems:_CMake_and_Modern_Alternatives.md)
 - [2.3 Package Managers: vcpkg, Conan](chapter_02/2.3_Package_Managers:_vcpkg,_Conan.md)
 - [2.4 Static and Dynamic Analysis Tools](chapter_02/2.4_Static_and_Dynamic_Analysis_Tools.md)
+## Chapter 3: Fundamental Concepts Revisited
+- [3.1 Value and Object Semantics](chapter_03/3.1_Value_and_Object_Semantics.md)
+- [3.2 Scope, Lifetime, and RAII](chapter_03/3.2_Scope,_Lifetime,_and_RAII.md)
+- [3.3 Pointers, References, and Smart Pointers](chapter_03/3.3_Pointers,_References,_and_Smart_Pointers.md)
+- [3.4 Const Correctness and Mutable State](chapter_03/3.4_Const_Correctness_and_Mutable_State.md)
