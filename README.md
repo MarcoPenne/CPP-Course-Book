@@ -13,3 +13,8 @@
 - [3.2 Scope, Lifetime, and RAII](chapter_03/3.2_Scope,_Lifetime,_and_RAII.md)
 - [3.3 Pointers, References, and Smart Pointers](chapter_03/3.3_Pointers,_References,_and_Smart_Pointers.md)
 - [3.4 Const Correctness and Mutable State](chapter_03/3.4_Const_Correctness_and_Mutable_State.md)
+## Chapter 4: Types, Declarations, and Type Deduction
+- [4.1 Type Type System Deep Dive](chapter_04/4.1_Type_System_Deep_Dive.md)
+- [4.2 Auto, Decltype, and Type Traits](chapter_04/4.2_auto,_decltype,_and_Type_Traits.md)
+- [4.3 Enumerations and Enum Classes](chapter_04/4.3_Enumerations_and_Enum_Classes.md)
+- [4.4 Type Aliases and Using Declarations](chapter_04/4.4_Type_Aliases_and_Using_Declarations.md)
