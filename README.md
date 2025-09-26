@@ -18,3 +18,8 @@
 - [4.2 Auto, Decltype, and Type Traits](chapter_04/4.2_auto,_decltype,_and_Type_Traits.md)
 - [4.3 Enumerations and Enum Classes](chapter_04/4.3_Enumerations_and_Enum_Classes.md)
 - [4.4 Type Aliases and Using Declarations](chapter_04/4.4_Type_Aliases_and_Using_Declarations.md)
+## Chapter 5: Expressions, Statements, and Control Flow
+- [5.1 Expression Semantics](chapter_05/5.1_Expression_Semantics.md)
+- [5.2 Selection and Iteration Statements](chapter_05/5.2_Selection_and_Iteration_Statements.md)
+- [5.3 Structured Bindings and Initialization](chapter_05/5.3_Structured_Bindings_and_Initialization.md)
+- [5.4 Pattern Matching (C++23 ‘if consteval’ and ‘if constexpr’)](chapter_05/5.4_Pattern_Matching_(C++23_‘if_consteval’_and_‘if%20constexpr’).md)
