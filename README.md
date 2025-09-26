@@ -23,3 +23,9 @@
 - [5.2 Selection and Iteration Statements](chapter_05/5.2_Selection_and_Iteration_Statements.md)
 - [5.3 Structured Bindings and Initialization](chapter_05/5.3_Structured_Bindings_and_Initialization.md)
 - [5.4 Pattern Matching (C++23 ‘if consteval’ and ‘if constexpr’)](chapter_05/5.4_Pattern_Matching_(C++23_‘if_consteval’_and_‘if%20constexpr’).md)
+## Chapter 6: Functions and Function Objects
+- [6.1 Function Declarations and Overloading](chapter_06/6.1_Function_Declarations_and_Overloading.md)
+- [6.2 Lambdas and Closures (C++11–C++23)](chapter_06/6.2_Lambdas_and_Closures_(C++11–C++23).md)
+- [6.3 std::function and Invocables](chapter_06/6.3_std::function_and_Invocables.md)
+- [6.4 Perfect Forwarding and Reference Collapsing](chapter_06/6.4_Perfect_Forwarding_and_Reference_Collapsing.md)
+- [6.5 Function Templates and Variadic Templates](chapter_06/6.5_Function_Templates_and_Variadic_Templates.md)
